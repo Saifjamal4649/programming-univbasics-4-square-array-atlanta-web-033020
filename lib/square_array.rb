@@ -5,3 +5,9 @@
 #     i**2
 # end
 # end
+
+def square_array(array)
+  arr = []
+  count = 0 
+  while array[count] < array.length do 
+    
