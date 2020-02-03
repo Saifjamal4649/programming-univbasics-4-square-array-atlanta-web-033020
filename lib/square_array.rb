@@ -9,5 +9,6 @@
 def square_array(array)
   arr = []
   count = 0 
-  while array[count] < array.length do 
+  while array[count] do 
+    arr < array.length 
     
